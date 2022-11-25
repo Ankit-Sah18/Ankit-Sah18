@@ -6,10 +6,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="350" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-sah&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-sah" /> </p>
-
-
-- 🌱 I’m currently learning **Java Backend and Spring.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-sah&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-sah" />
 
 - 👨‍💻 All of my projects are available at portfolio (https://portfolio-ankit-sah.vercel.app/)
 
