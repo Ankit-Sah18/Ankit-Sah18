@@ -1,12 +1,12 @@
 <!--  <img width="100%" height="300px" align="center" src="https://image.shutterstock.com/image-vector/programming-web-banner-best-languages-600w-1676060566.jpg" /> -->
-  <img width="100%" height="300px" align="center" src="https://blog.eduonix.com/wp-content/uploads/2015/02/java_11.png" />
+  <img width="100%" height="400px" align="center" src="https://img.freepik.com/premium-vector/special-programming-language-computing-platform-ad_81534-2981.jpg?w=2000" />
   
 <h1>Hi 👋, my name is Ankit Sah</h2>
  <b font-size='50px'>Backend Developer</b>
 
 
 <img border-radius="10px" align="right" height="220px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />
-<h4>  &nbsp;&nbsp;&nbsp;&nbsp;Passionate Software Developer with backend development technologies. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.</h4>
+<h4>  &nbsp;&nbsp;&nbsp;&nbsp;Motivated and highly productive Backend Developer with a strong problem-solving mindset and data structure and algorithm. I love to work on exciting projects that test what I've learnt, whilst being exposed to the power and potential of the ever-evolving technologies around us. Looking forward to applying and enhancing my skills and knowledge as a developer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit-Sah18&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit Sah" /> </p>
 
