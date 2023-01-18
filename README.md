@@ -55,7 +55,7 @@
 
 
 <div > 
- <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)"  height="240px" width="55%"/>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)"  height="240px" width="55%"/>
 
  </div>
  
@@ -65,6 +65,6 @@
 
  </div>
 <div > 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="240px" width="55%"/>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankit-Sah18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="240px" width="55%"/>
 
  </div>
