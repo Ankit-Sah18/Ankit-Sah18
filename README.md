@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🌱 I’m currently learning **Spring-Boot, MySQL, Hibernate**
+- 🌱 I’m currently learning **Spring-Security**
 
 - 💬 Ask me about **JAVA, Spring, Spring-Boot, MYSQL**
 
